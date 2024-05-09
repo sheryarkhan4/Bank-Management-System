@@ -1,3 +1,9 @@
+//Project Name: Bank Management System
+//Coders: Sheryar khan & Taha Rizwan
+/* Purpose of code: The given program is a simple command-line Bank Management System, 
+Its purpose is to allow users to perform various banking operations, such as depositing money,
+withdrawing money, transferring money to other accounts, and checking account details and transaction history
+*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
